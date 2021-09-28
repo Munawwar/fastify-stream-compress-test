@@ -1,0 +1,16 @@
+{
+  "name": "fastify-stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "delay": "^5.0.0",
+    "fastify": "^3.21.6",
+    "fastify-compress": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.10.1"
+  }
+}
